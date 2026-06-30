@@ -1,0 +1,13 @@
+Feature,Importance
+Lifespan_Days,0.28313637
+RFM_Score_Numeric,0.16085233
+Frequency,0.09541431
+Monetary,0.089747235
+Purchase_Frequency,0.062749706
+Total_Quantity,0.041550275
+Region_West,0.030295307
+Avg_Order_Value,0.030017879
+Weekend_Order_Share,0.028614696
+Gross_Margin_Pct,0.024913471
+Segment_Corporate,0.024023432
+Avg_Discount,0.022618169

@@ -1,0 +1,107 @@
+
+================================================================================
+RETAIL & MARKETING ANALYTICS
+EXECUTIVE SUMMARY REPORT
+================================================================================
+
+Generated: 2026-06-30 10:36:22
+Analysis Period: 2022-01-01 to 2023-02-21
+
+================================================================================
+1. KEY BUSINESS METRICS
+================================================================================
+
+FINANCIAL PERFORMANCE:
+  - Total Revenue: $1,078,670.98
+  - Total Profit: $198,274.85
+  - Profit Margin: 18.38%
+  - Average Order Value: $107.87
+
+CUSTOMER METRICS:
+  - Total Customers: 1,986
+  - Repeat Customer Rate: 96.27%
+  - Customer Retention Rate: 89.12%
+  - Churn Rate: 10.88%
+  - Average CLV: $2,750.70
+
+OPERATIONAL METRICS:
+  - Total Orders: 10,000
+  - Total Units Sold: 50,065
+  - Avg Orders per Customer: 5.04
+  - Avg Items per Order: 5.01
+
+MARKETING EFFICIENCY:
+  - CLV/CAC Ratio: 55.01x
+  - Customer Acquisition Cost: $50.00
+  - Profit per Customer: $99.84
+  - CAC Payback Period: 5.5 months
+
+================================================================================
+2. CUSTOMER SEGMENTATION INSIGHTS
+================================================================================
+
+Loyal Customers:
+  - Size: 745 customers (37.5%)
+  - Revenue Contribution: $466,530.68 (43.3%)
+  - Avg Purchase Frequency: 5.75 orders
+  - Avg Recency: 56.5 days
+
+VIP Customers:
+  - Size: 332 customers (16.7%)
+  - Revenue Contribution: $326,572.24 (30.3%)
+  - Avg Purchase Frequency: 8.53 orders
+  - Avg Recency: 42.1 days
+
+At Risk:
+  - Size: 614 customers (30.9%)
+  - Revenue Contribution: $197,513.27 (18.3%)
+  - Avg Purchase Frequency: 3.28 orders
+  - Avg Recency: 63.3 days
+
+Lost / Dormant:
+  - Size: 295 customers (14.9%)
+  - Revenue Contribution: $88,054.79 (8.2%)
+  - Avg Purchase Frequency: 2.94 orders
+  - Avg Recency: 227.7 days
+
+================================================================================
+3. TOP PERFORMING CATEGORIES
+================================================================================
+
+1. Electronics: $328,422.71 (30.45%)
+2. Office Supplies: $321,280.86 (29.78%)
+3. Furniture: $214,958.03 (19.93%)
+4. Clothing: $214,009.37 (19.84%)
+
+================================================================================
+4. KEY FINDINGS & INSIGHTS
+================================================================================
+
+POSITIVE TRENDS:
+  + CLV is 55.0x the acquisition cost (Healthy benchmark: >3.0x)
+  + 96.27% of customers make repeat purchases
+  + Average order value is $107.87
+
+AREAS FOR IMPROVEMENT:
+  ! Churn rate of 10.88% requires proactive retention work
+  ! 74 customers have made only one purchase to date
+
+OPPORTUNITIES:
+  - Prioritize win-back campaigns for the At-Risk / Lost segments
+  - Double down on the top-2 revenue categories while testing growth in laggards
+  - Personalize marketing cadence and offers by behavioral segment
+
+================================================================================
+5. STRATEGIC RECOMMENDATIONS
+================================================================================
+
+IMMEDIATE (0-30 Days): loyalty program for VIPs, win-back campaign for at-risk customers,
+  automated churn-risk alerts to the retention team.
+SHORT-TERM (2-3 Months): personalized email journeys by segment, discount-sensitivity
+  testing, referral program pilot.
+LONG-TERM (6-12 Months): productionize the churn model, build a recommendation engine,
+  formal customer-success motion for high-CLV accounts.
+
+================================================================================
+END OF EXECUTIVE SUMMARY
+================================================================================

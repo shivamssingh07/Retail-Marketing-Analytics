@@ -1,0 +1,22 @@
+================================================================================
+EXPLORATORY DATA ANALYSIS - KEY FINDINGS
+================================================================================
+
+Dataset: 10,000 order lines | 10,000 orders | 1,986 customers
+Date range: 2022-01-01 to 2023-02-21
+
+REVENUE & SALES
+  - Total Revenue: $1,078,670.98
+  - Average Order Value: $107.87
+  - Top Performing Category: Electronics
+  - Top Performing Region: East
+  - Weekend orders contribute 29.0% of total revenue
+
+RELATIONSHIPS
+  - Correlation between Discount and Profit Margin: -0.010 (inverse - higher discounts erode margin)
+
+DATA QUALITY
+  - 328 Sales values were capped as outliers (IQR method)
+  - 87 Profit values were capped as outliers (IQR method)
+
+================================================================================

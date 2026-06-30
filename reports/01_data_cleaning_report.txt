@@ -1,0 +1,22 @@
+================================================================================
+DATA CLEANING REPORT
+================================================================================
+Generated: 2026-06-30 10:36:14
+
+Raw dataset shape:     10,000 rows x 19 columns
+Cleaned dataset shape: 10,000 rows x 21 columns
+Rows removed:          0 (0.00%)
+
+Missing values detected in raw data (before cleaning):
+  - Customer_Name: 50
+  - Profit: 30
+
+Cleaning steps applied:
+  1. Schema validation against expected column set
+  2. Missing value imputation (categorical -> 'Unknown', numeric -> median/0)
+  3. Duplicate removal (by Order_ID and full-row duplicates)
+  4. Data type enforcement (datetime, category, numeric)
+  5. Business rule checks (Quantity > 0, non-negative Sales/Revenue, Discount in [0,1], Ship_Date >= Order_Date)
+  6. Outlier treatment on Sales & Profit via IQR capping (originals retained in *_Original columns)
+
+================================================================================
