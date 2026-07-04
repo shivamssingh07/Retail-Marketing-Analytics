@@ -270,14 +270,11 @@ ORDER BY churn_probability DESC;
 
 ## 📊 Power BI Executive Dashboard
 
-![Dashboard Preview](images/dashboard_screenshot.png)
+![Dashboard Preview](images/eda/dashboard.png)
 
 A full interactive Power BI dashboard covering KPI cards (Total Revenue, Orders, Profit Margin, AOV), monthly revenue trend, top 10 products, and sales breakdown by category, region, and customer segment.
 
-- 📥 [Download Power BI Dashboard (.pbix)](dashboards/retail_analytics_dashboard.pbix)
-- 📄 [Dashboard Design Guide & DAX Formulas](dashboards/power_bi_design_guide.md)
-- 📄 [Power BI Documentation](dashboards/PowerBI_Documentation.md)
-
+- 📥 [Download Power BI Dashboard (.pbix)](images/eda/dashboard.png)
 ---
 
 ## 📊 Dashboard Pages (Streamlit)
